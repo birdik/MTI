@@ -6,6 +6,8 @@
 
 Скачать можно здесь: [Ссылка](https://github.com/birdik/MTI/releases)
 
+Cсылка на канал в телеграме, где монжо задать вопросы и предложить пожелания по улучшению приложения [Ссылка](https://t.me/joinchat/DtcZAn1MQgs2ZTVi)
+
 Для работы приложения, надо получить API токен. [Ссылка на инструкцию.](https://tinkoffcreditsystems.github.io/invest-openapi/auth/#_2)
 
 Начало работы с приложением:
